@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: "Introducing the Protocol Field Framework"
+message: "If you use this work, please cite it as below."
+type: software
+authors:
+  - family-names: "Grant"
+    given-names: "John L"
+    orcid: "https://orcid.org/0009-0009-8838-2798"
+    affiliation: "IT Jobs Watch"
+version: "0.2"
+date-released: "2025-12-01"
+url: "https://github.com/johnlgrant-research/protocol-field"
+repository: "https://github.com/johnlgrant-research/protocol-field"
+license: CC-BY-4.0
+preferred-citation:
+  type: report
+  title: "Introducing the Protocol Field Framework"
+  authors:
+    - family-names: "Grant"
+      given-names: "John L"
+      orcid: "https://orcid.org/0009-0009-8838-2798"
+      affiliation: "IT Jobs Watch"
+  year: 2025
+  month: 12
+  url: "https://github.com/johnlgrant-research/protocol-field"
+  abstract: "The Protocol Field is a diagnostic framework for mapping the dynamic state of protocols in practice. It treats any structured interaction as a protocol and plots them on two experiential axes: Adaptability and Opacity. The framework diagnoses where coordination is becoming brittle, opaque, or both, in increasingly AI-mediated systems."
