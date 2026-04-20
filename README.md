@@ -34,9 +34,13 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ## Author
 
-J L Grant. [LinkedIn](https://www.linkedin.com/in/johnlgrant/)
+J L Grant. [LinkedIn](https://www.linkedin.com/in/johnlgrant/) · [ORCID](https://orcid.org/0009-0009-8838-2798)
 
 ## Changelog
 
 - **0.2 (December 2025)** — Added section on Ontological Breadth and Diagnostic Tension.
 - **0.1 (July 2025)** — Initial working draft.
+
+## Sponsorship
+
+This research is supported by [IT Jobs Watch](https://www.itjobswatch.co.uk) as part of their commitment to open inquiry into human-AI coordination under complexity.
