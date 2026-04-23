@@ -12,7 +12,8 @@ consequences become unrecoverable.
 
 **Introducing the Protocol Field Framework**, Working Paper, Version 0.2, December 2025.
 
-[Download PDF](https://raw.githubusercontent.com/johnlgrant-research/protocol-field/main/protocol-field-v0.2.pdf)
+- [Read online](protocol-field.md)
+- [Download PDF](https://raw.githubusercontent.com/johnlgrant-research/protocol-field/main/protocol-field-v0.2.pdf)
 
 ## Status
 
@@ -22,11 +23,9 @@ Working draft. Feedback welcome.
 
 Grant, J. L. (2025). *Introducing the Protocol Field Framework* (Working Paper, Version 0.2). Available at: https://github.com/johnlgrant-research/protocol-field
 
-## How to engage
+## Contributing
 
-- Open an issue for questions, comments, or to flag errors.
-- Start a discussion for broader conversations about the framework.
-- Submit a pull request if you have specific edits to propose.
+See [CONTRIBUTING.md](CONTRIBUTING.md) for how to propose edits, open issues, or start discussions — no Git command line required.
 
 ## Licence
 
@@ -34,7 +33,7 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 
 ## Author
 
-J L Grant. [LinkedIn](https://www.linkedin.com/in/johnlgrant/) · [ORCID](https://orcid.org/0009-0009-8838-2798)
+J L Grant - [LinkedIn](https://www.linkedin.com/in/johnlgrant/) · [ORCID](https://orcid.org/0009-0009-8838-2798)
 
 ## Changelog
 
