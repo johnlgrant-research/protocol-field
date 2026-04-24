@@ -4,9 +4,9 @@ Feedback on the Protocol Field working paper is welcome — typos, citations, cl
 
 ## Three ways to contribute
 
-- **[Open an issue](https://github.com/johnlgrant-research/protocol-field/issues)** — questions, errors, or feedback that isn't a line-level edit.
-- **[Start a discussion](https://github.com/johnlgrant-research/protocol-field/discussions)** — broader conversation about the framework, related work, or applications.
-- **Open a pull request** — specific edits to [`protocol-field.md`](protocol-field.md). See the web-UI walkthrough below.
+- **[Open an issue](https://github.com/johnlgrant-research/protocol-field/issues)** — errors, questions, or anything you want tracked to resolution. From a line in [`protocol-field.md`](protocol-field.md), GitHub's line menu offers *Reference in new issue* to anchor the issue to that line.
+- **[Start a discussion](https://github.com/johnlgrant-research/protocol-field/discussions)** — open-ended exchange about a passage, the framework, related work, or applications. *Reference in new discussion* works the same way from the line menu.
+- **Open a pull request** — a specific proposed edit to [`protocol-field.md`](protocol-field.md). See the web-UI walkthrough below.
 
 ## Proposing an edit in the browser
 
