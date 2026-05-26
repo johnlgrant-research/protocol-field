@@ -12,7 +12,7 @@ consequences become unrecoverable.
 
 **Introducing the Protocol Field Framework**, Working Paper, Version 0.2, December 2025.
 
-- [Read online](protocol-field.md)
+- [Read online](https://www.itjobswatch.co.uk/research-notes/2025/protocol-field)
 - [Download PDF](https://raw.githubusercontent.com/johnlgrant-research/protocol-field/main/protocol-field-v0.2.pdf)
 
 ## Status
